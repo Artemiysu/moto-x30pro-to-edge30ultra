@@ -3,6 +3,11 @@ A Guide to Globalizing Moto X30 Pro into a Motorola Edge 30 Ultra
 
 ---
 
+> [WARNING!]
+> The author is not responsible for bricking your phone. As of May 2026, this guide is working and tested.
+
+---
+
 ## 1 - Unlocking bootloader
 1) Make sure you have OEM unlocking enabled and USB debugging enabled.
 2) Download [platform-tools](https://developer.android.com/tools/releases/platform-tools).
