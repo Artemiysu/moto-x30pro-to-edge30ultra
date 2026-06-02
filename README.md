@@ -1,5 +1,8 @@
 # Guide: How to globalize Moto X30 Pro
 A Guide to Globalizing Moto X30 Pro into a Motorola Edge 30 Ultra
+
+---
+
 ## 1 - Unlocking bootloader
 1) Make sure you have OEM unlocking enabled and USB debugging enabled.
 2) Download [platform-tools](https://developer.android.com/tools/releases/platform-tools).
@@ -12,6 +15,9 @@ The console displays 5 lines of long alphanumeric code. This code needs to be co
 5) Enter this command:
 ```fastboot oem unlock YOUR_RECEIVED_KEY```
 6) Congratulations! You have unlocked the bootloader!
+
+---
+
 ## 2 - Preparing for flashing and flashing
 1) Download [RSU](https://support.lenovo.com/us/en/downloads/ds101291).
 2) Open RSU and login.
