@@ -3,8 +3,9 @@ A Guide to Globalizing Moto X30 Pro into a Motorola Edge 30 Ultra
 
 ---
 
-# WARNING!
-<font color="red">The author is not responsible for bricking your phone. As of May 2026, this guide is working and tested.</font>
+> [!CAUTION]
+> **WARNING!**
+> The author is not responsible for bricking your phone. As of May 2026, this guide is working and tested.
 
 ---
 
