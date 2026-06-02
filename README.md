@@ -52,3 +52,6 @@ If your device boots up into the Global ROM perfectly but you experience **no si
    fastboot flash radio radio.img
    fastboot reboot
 ```
+> [!CAUTION]
+> **WARNING!**
+> DO NOT BLOCK YOUR BOOTLEADER OR YOUR PHONE WILL BRICK
